@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://georgedavlyatshin.itch.io/](https://georgedavlyatshin.itch.io/)
 
-- 📫 How to reach me **davlik2003@gmail.com**
+- 📫 How to reach me **g.davlyatshin@gmail.com**
 
 - ⚡ Fun fact **I love cooking**
 
