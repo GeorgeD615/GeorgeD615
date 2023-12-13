@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm George</h1>
 <h3 align="center">A programmer student from Saint-Petersburg</h3>
 
-- 🌱 I’m currently learning **Unity/C#/PostgreSQL**
-
-- 👨‍💻 All of my projects are available at [https://georgedavlyatshin.itch.io/](https://georgedavlyatshin.itch.io/)
+- 🌱 I’m currently learning **ASP.NET**
 
 - 📫 How to reach me **g.davlyatshin@gmail.com**
 
