@@ -1,13 +1,13 @@
 # Hello! I'm George.
 
 ## :smile: A little bit about me:
-I'm a programmer student from Saint-Petersburg. At the moment I am practicing in web development on **ASP.NET**. </br>In my free time I love to cook and create <a href="https://georgedavlyatshin.itch.io/" target="_blank">video games :video_game:</a>.
+I'm a programmer student from Saint-Petersburg. At the moment I am practicing in web development on **ASP.NET**. </br>In my free time I love to cook and create <a href="https://georgedavlyatshin.itch.io/" target="_blank" rel="nofollow">video games :video_game:</a>.
 
 ## :mailbox_with_mail: How to reach me
-[<img src="https://img.shields.io/badge/Telegram-%23000000?style=for-the-badge&logo=telegram" target="_blank" alt="Telegram" height="40"/>](https://t.me/GeorgeD615)
+[<img src="https://img.shields.io/badge/Telegram-%23000000?style=for-the-badge&logo=telegram" target="_blank" rel="nofollow" alt="Telegram" height="40"/>](https://t.me/GeorgeD615)
 
 ## :mortar_board: Education
-Saint Petersburg State University - <a href="https://english.spbu.ru/admission/programms/undergraduate/programming-and-information-technology" target="_blank">Programming and Information Technology</a> (2021 - 2025)
+Saint Petersburg State University - <a href="https://english.spbu.ru/admission/programms/undergraduate/programming-and-information-technology" target="_blank" rel="nofollow">Programming and Information Technology</a> (2021 - 2025)
 
 ## :wrench: Skills and Tools:
 
