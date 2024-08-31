@@ -1,14 +1,55 @@
-<h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A programmer student from Saint-Petersburg</h3>
+# Hello! I'm George.
 
-- 🌱 I’m currently learning **ASP.NET**
+## :smile: A little bit about me:
+I'm a programmer student from Saint-Petersburg. At the moment I am practicing in web development on **ASP.NET**. </br>In my free time I love to cook and create <a href="https://georgedavlyatshin.itch.io/">video games :video_game:</a>.
 
-- 📫 How to reach me **Telegram:@GeorgeD615**
+## :mailbox_with_mail: How to reach me
+[<img src="https://img.shields.io/badge/Telegram-%23000000?style=for-the-badge&logo=telegram" alt="Telegram" height="40"/>](https://t.me/GeorgeD615)
 
-- ⚡ Fun fact **I love cooking and making videogames:https://georgedavlyatshin.itch.io/**
+## :mortar_board: Education
+Saint Petersburg State University - <a href="https://english.spbu.ru/admission/programms/undergraduate/programming-and-information-technology">Programming and Information Technology</a> (2021 - 2025)
+
+## :wrench: Skills and Tools:
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/C%23-%23000000?style=for-the-badge&logo=c-sharp" alt="C#" height="40"/> 
+  <img src="https://img.shields.io/badge/C++-%23000000?style=for-the-badge&logo=c%2B%2B" alt="C++" height="40"/> 
+  <img src="https://img.shields.io/badge/HTML-%23000000?style=for-the-badge&logo=html5" alt="HTML" height="40"/> 
+  <img src="https://img.shields.io/badge/CSS-%23000000?style=for-the-badge&logo=css3" alt="CSS" height="40"/>  
+</p>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+### Frameworks and Libraries
+<p>
+  <img src="https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=dotnet" alt=".NET" height="40"/> 
+  <img src="https://img.shields.io/badge/ASP.NET_Core-%23000000?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" height="40"/> 
+  <img src="https://img.shields.io/badge/LINQ-%23000000?style=for-the-badge&logo=dotnet" alt="LINQ" height="40"/> 
+  <img src="https://img.shields.io/badge/Bootstrap-%23000000?style=for-the-badge&logo=bootstrap" alt="Bootstrap" height="40"/>
+</p>
 
-![GeorgeD615's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeD615&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/Entity_Framework-%23000000?style=for-the-badge&logo=dotnet" alt="Entity Framework" height="40"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-%23000000?style=for-the-badge&logo=postgresql" alt="PostgreSQL" height="40"/> 
+  <img src="https://img.shields.io/badge/MSSQL-%23000000?style=for-the-badge&logo=microsoft-sql-server" alt="MSSQL" height="40"/>
+</p>
+
+
+### Other tools
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-%23000000?style=for-the-badge&logo=visual-studio" alt="Visual Studio" height="40"/> 
+  <img src="https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git" alt="Git" height="40"/> 
+  <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github" alt="GitHub" height="40"/> 
+  <img src="https://img.shields.io/badge/SSMS-%23000000?style=for-the-badge&logo=microsoft-sql-server" alt="SSMS" height="40"/> 
+  <img src="https://img.shields.io/badge/Swagger-%23000000?style=for-the-badge&logo=swagger" alt="Swagger" height="40"/> 
+  <img src="https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman" alt="Postman" height="40"/> 
+  <img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma" alt="Figma" height="40"/> 
+  <img src="https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity" alt="Unity" height="40"/> 
+  <img src="https://img.shields.io/badge/Unreal-%23000000?style=for-the-badge&logo=unreal-engine" alt="Unreal Engine" height="40"/>
+</p>
+
+## 📊 Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeorgeD615&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeD615&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
