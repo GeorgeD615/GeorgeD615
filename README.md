@@ -20,7 +20,7 @@ Saint Petersburg State University - <a href="https://english.spbu.ru/admission/p
 </p>
 
 
-### Frameworks and Libraries
+### Frameworks/Libraries
 <p>
   <img src="https://img.shields.io/badge/.NET-%23000000?style=for-the-badge&logo=dotnet" alt=".NET" height="40"/> 
   <img src="https://img.shields.io/badge/ASP.NET_Core-%23000000?style=for-the-badge&logo=dotnet" alt="ASP.NET Core" height="40"/> 
