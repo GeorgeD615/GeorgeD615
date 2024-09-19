@@ -1,7 +1,7 @@
 # Hello! I'm George.
 
 ## :smile: A little bit about me:
-I'm a programmer student from Saint-Petersburg. At the moment I am practicing in web development on **ASP.NET**. </br>In my free time I love to cook and create <a href="https://georgedavlyatshin.itch.io/" target="_blank" rel="nofollow">video games :video_game:</a>.
+I'm a programmer student from Saint-Petersburg. At the moment I am practicing in web development on **ASP.NET**.</br>You can see my pet-project <a href="https://github.com/GeorgeD615/DeliveryWebApp" target="_blank" rel="nofollow">here</a>.</br>In my free time I love to cook and create <a href="https://georgedavlyatshin.itch.io/" target="_blank" rel="nofollow">video games :video_game:</a>.
 
 ## :mailbox_with_mail: How to reach me
 [<img src="https://img.shields.io/badge/Telegram-%23000000?style=for-the-badge&logo=telegram" target="_blank" rel="nofollow" alt="Telegram" height="40"/>](https://t.me/GeorgeD615)
