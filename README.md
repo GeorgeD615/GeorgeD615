@@ -41,9 +41,9 @@ Saint Petersburg State University - <a href="https://english.spbu.ru/admission/p
 <p>
   <img src="https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git" alt="Git" height="40"/> 
   <img src="https://img.shields.io/badge/GitHub-%23000000?style=for-the-badge&logo=github" alt="GitHub" height="40"/> 
+  <img src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40"/>
   <img src="https://img.shields.io/badge/Swagger-%23000000?style=for-the-badge&logo=swagger" alt="Swagger" height="40"/> 
   <img src="https://img.shields.io/badge/Postman-%23000000?style=for-the-badge&logo=postman" alt="Postman" height="40"/> 
-  <img src="https://img.shields.io/badge/Docker-%23000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40"/>
   <img src="https://img.shields.io/badge/Visual_Studio-%23000000?style=for-the-badge&logo=visual-studio" alt="Visual Studio" height="40"/> 
   <img src="https://img.shields.io/badge/SSMS-%23000000?style=for-the-badge&logo=microsoft-sql-server" alt="SSMS" height="40"/> 
   <img src="https://img.shields.io/badge/Figma-%23000000?style=for-the-badge&logo=figma" alt="Figma" height="40"/> 
